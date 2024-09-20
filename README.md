@@ -20,11 +20,11 @@ This document outlines the steps to conduct research and prepare a manuscript fo
 - Ensure your topic aligns with the journal's scope and submission requirements.
 
 ## 2. Literature Review
-### 2.1 Read 3 Papers from Top Scientists
+### 2.1 Read 3 Papers from Top Scientists in that Journal [research.com](https://research.com/)
 - Identify and read three key papers authored by leading researchers in your field.
 - Focus on gaining insights into their methodologies and research questions.
 
-### 2.2 Read 5 Most Cited Papers
+### 2.2 Read 5 Most Cited Papers in that Journal
 - Find and analyze five highly cited papers within your subject area.
 - Understand their contribution to the field and how they were structured.
 
