@@ -29,7 +29,7 @@ This document outlines the steps to conduct research and prepare a manuscript fo
 - Understand their contribution to the field and how they were structured.
 
 ## 3. Brainstorming Session
-- **Brainstorm with [ChatGPT}(https://chatgpt.com/)**: Use AI to discuss potential ideas and approaches for your research paper base with your call for paper.
+- **Brainstorm with [ChatGPT](https://chatgpt.com/)**: Use AI to discuss potential ideas and approaches for your research paper base with your call for paper.
 - Focus on how your skills and expertise align with the journal's call for papers.
 
 ## 4. Formulate Research Question
