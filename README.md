@@ -24,24 +24,24 @@ This document outlines the steps to conduct research and prepare a manuscript fo
 - Identify and read three key papers authored by leading researchers in your field.
 - Focus on gaining insights into their methodologies and research questions.
 
-### 2.2 Read 5 Most Cited Papers in that Journal
+### 2.2 Read 5 Most Cited Papers in that Journal [WoS](https://webofscience.clarivate.cn/wos/author/search)
 - Find and analyze five highly cited papers within your subject area.
 - Understand their contribution to the field and how they were structured.
 
 ## 3. Brainstorming Session
-- **Brainstorm with ChatGPT**: Use AI to discuss potential ideas and approaches for your research paper.
+- **Brainstorm with [ChatGPT}(https://chatgpt.com/)**: Use AI to discuss potential ideas and approaches for your research paper base with your call for paper.
 - Focus on how your skills and expertise align with the journal's call for papers.
 
 ## 4. Formulate Research Question
-- Based on the special issue or call for papers, create a relevant and focused research question.
+- Based on the special issue or call for papers, create a relevant and focused Draft research question.
 - Ensure the question addresses a gap in the literature and fits the journal's theme.
 
 ## 5. Find Follow-Up Papers
 - With your formulated research question, find 2 related papers to follow and build upon.
 - Ensure these papers are from the target journal or closely aligned with its scope.
 
-## 6. Analyze 50 Papers (WoS)
-- Download and analyze 50 papers from **Web of Science (WoS)**.
+## 6. Analyze 50 Papers 
+- Download and analyze 50 papers from [WoS](https://webofscience.clarivate.cn/wos/author/search)
 - Focus on understanding trends, methodologies, and how these papers are cited.
 - Look for potential gaps or opportunities for your research contribution.
 
@@ -52,7 +52,7 @@ This document outlines the steps to conduct research and prepare a manuscript fo
 ### 7.2 Create Excel Spreadsheet (ChatGPT)
 - **ChatGPT Task**: Assist in creating an Excel sheet to track citations, key insights from literature, and potential references.
 
-## 8. Draft Research Question
+## 8. RE - Draft Research Question
 - Refine and finalize your research question based on the literature review and brainstorming sessions.
 
 ## 9. Write Draft Abstract
